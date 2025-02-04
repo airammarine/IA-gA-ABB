@@ -3,7 +3,7 @@ Tarea 1 prt:1 Arbol Binario de Busqueda.
 
 Este proyecto implementa un árbol binario de busqueda (ABB) en Python, insertando una lista de nombres en el AB para luego realizar operaciones de busqueda, impresión y vaciado de elementos.
 
-*-Inserción de nodos* en el arbol en base al orden alfabetico.
+*-Inserción de nodos* en el arbol en base al orden.
 
 *-Busqueda de nodos* para verificar si un nombre está en el árbol.
 
